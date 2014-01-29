@@ -1,0 +1,14 @@
+= Jeu de Carte
+
+  Un jeu de carte très distrayant
+
+
+== Langage utilisé
+
+  Java
+
+== Ide
+
+
+  Netbeans
+  
